@@ -1,0 +1,19 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+* What new skills have you learned?
+  1.学习到了基本的HTML语法
+  2.会用Atom编辑生成简单的HTML页面
+
+* What has been easy?
+  目前一切都看起来比较容易。
+
+* What has been difficult?
+  目前没有什么难点。
+
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+  遇到不懂的或不知道如何实现的，运用到了Google和在课程中被推荐的MDN搜索。
